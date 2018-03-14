@@ -2,15 +2,6 @@ package com.teststellar;
 
 import org.stellar.sdk.*;
 import org.stellar.sdk.responses.AccountResponse;
-import org.stellar.sdk.responses.SubmitTransactionResponse;
-import org.stellar.sdk.xdr.AssetType;
-
-import javax.validation.constraints.NotNull;
-import java.io.IOException;
-import java.io.InputStream;
-import java.net.URL;
-import java.security.Key;
-import java.util.Scanner;
 
 public class Main {
 
