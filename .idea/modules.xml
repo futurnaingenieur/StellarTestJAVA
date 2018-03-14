@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testSdkJava.iml" filepath="$PROJECT_DIR$/.idea/modules/testSdkJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testSdkJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/testSdkJava_main.iml" group="testSdkJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testSdkJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/testSdkJava_test.iml" group="testSdkJava" />
+    </modules>
+  </component>
+</project>

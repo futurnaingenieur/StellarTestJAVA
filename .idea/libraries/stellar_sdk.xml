@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="stellar-sdk">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/stellar-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/java-stellar-sdk-0.2.0.zip!/java-stellar-sdk-0.2.0/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/java-stellar-sdk-0.2.0.zip!/java-stellar-sdk-0.2.0/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
